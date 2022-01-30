@@ -12,3 +12,4 @@ int main() {
     cout << Answer % 100 << endl;
     return 0;
 }
+
