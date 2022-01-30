@@ -7,3 +7,4 @@ int main() {
     cout << 2 * N + 3 << endl;
     return 0;
 }
+
