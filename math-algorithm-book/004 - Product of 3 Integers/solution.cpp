@@ -7,3 +7,4 @@ int main() {
     cout << A[1] * A[2] * A[3] << endl;
     return 0;
 }
+
