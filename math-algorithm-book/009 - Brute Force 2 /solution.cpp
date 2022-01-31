@@ -7,7 +7,6 @@ int main() {
     int a[n];
     for(int i = 0; i < n; ++i) cin >> a[i];
 
-    bool exist = false;
     for(int bit = 0; bit < (1<<n); ++bit) {
         int sum = 0;
         for (int i = 0; i < n; ++i) {
