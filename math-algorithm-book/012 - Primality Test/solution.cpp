@@ -9,7 +9,7 @@ bool isprime(long long n) {
 }
 
 int main() {
-    int n; 
+    long long n; 
     cin >> n;
 
     if(isprime(n) == true) {
@@ -17,4 +17,6 @@ int main() {
     } else {
         cout << "No" << endl;
     }
+
+    return 0;
 }
